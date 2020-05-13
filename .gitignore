@@ -1,0 +1,6 @@
+.vscode
+build
+devel
+src
+.catkin_workspace
+.rosinstall.bak
