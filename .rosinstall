@@ -7,3 +7,6 @@
 - git:
     local-name: src/test_dart
     uri: git@github.com:TimWhiting/test_dart_ros.git
+- git:
+    local-name: src/dartros
+    uri: git@github.com:TimWhiting/dartros.git
