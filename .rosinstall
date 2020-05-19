@@ -13,3 +13,6 @@
 - git:
     local-name: src/std_msgs
     uri: git@github.com:TimWhiting/std_msgs_dart.git
+- git:
+    local-name: src/rosgraph_msgs
+    uri: git@github.com:TimWhiting/rosgraph_msgs_dart.git
