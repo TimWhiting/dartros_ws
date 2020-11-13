@@ -19,3 +19,9 @@
 - git:
     local-name: src/actionlib_msgs
     uri: git@github.com:TimWhiting/actionlib_msgs_dart.git
+- git:
+    local-name: src/geometry_msgs
+    uri: git@github.com:TimWhiting/geometry_msgs.git
+- git:
+    local-name: src/sensor_msgs
+    uri: git@github.com:TimWhiting/sensor_msgs.git
