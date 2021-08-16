@@ -9,6 +9,9 @@
     local-name: src/dartros
     uri: git@github.com:TimWhiting/dartros.git
 - git:
+    local-name: src/dartros_msgutils
+    uri: git@github.com:TimWhiting/dartros_msgutils.git
+- git:
     local-name: src/std_msgs
     uri: git@github.com:TimWhiting/std_msgs_dart.git
 - git:
