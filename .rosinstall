@@ -1,6 +1,7 @@
 - git:
     local-name: src/gendart
     uri: git@github.com:TimWhiting/gendart
+    version: nullsafety
 - git:
     local-name: src/test_dart
     uri: git@github.com:TimWhiting/test_dart_ros.git
