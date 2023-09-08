@@ -6,11 +6,3 @@ packages:
 scripts:
   analyze: melos exec -- exec dart pub global run tuneup check
   upgrade: melos exec -- exec dart pub upgrade
-
-
-dev_dependencies:
-  pedantic: 1.9.2
-
-environment:
-  sdk: ">=2.1.0 <3.0.0"
-  flutter: ">=1.12.13+hotfix.5 <2.0.0"

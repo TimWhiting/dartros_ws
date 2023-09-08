@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/actionlib_msgs/melos_actionlib_msgs.iml" filepath="$PROJECT_DIR$/src/actionlib_msgs/melos_actionlib_msgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/dartros/melos_dartros.iml" filepath="$PROJECT_DIR$/src/dartros/melos_dartros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/dartros_msgutils/melos_dartros_msgutils.iml" filepath="$PROJECT_DIR$/src/dartros_msgutils/melos_dartros_msgutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/geometry_msgs/melos_geometry_msgs.iml" filepath="$PROJECT_DIR$/src/geometry_msgs/melos_geometry_msgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/rosgraph_msgs/melos_rosgraph_msgs.iml" filepath="$PROJECT_DIR$/src/rosgraph_msgs/melos_rosgraph_msgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/sensor_msgs/melos_sensor_msgs.iml" filepath="$PROJECT_DIR$/src/sensor_msgs/melos_sensor_msgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/std_msgs/melos_std_msgs.iml" filepath="$PROJECT_DIR$/src/std_msgs/melos_std_msgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test_dart/melos_test_dart.iml" filepath="$PROJECT_DIR$/src/test_dart/melos_test_dart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_dartros_ws.iml" filepath="$PROJECT_DIR$/melos_dartros_ws.iml" />
+    </modules>
+  </component>
+</project>
